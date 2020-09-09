@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace exercicios_estrutura_sequencial
 {
-    class Exercicio04
+    class Exercicio05
     {
         static void Main(string[] args)
         {
