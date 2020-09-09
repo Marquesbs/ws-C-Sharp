@@ -14,7 +14,7 @@ namespace exercicios_estrutura_sequencial
             C = double.Parse(valores[2], CultureInfo.InvariantCulture);
             
             triangulo = (C * A) / 2;
-            circulo = 3.14159 * (Math.Pow(C, 2));
+            circulo = 3.14159 * C * C;
             trapezio =  (A + B) / 2.0 * C;
             quadrado = B * B;
             retangulo = A * B;
