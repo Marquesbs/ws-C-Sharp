@@ -22,8 +22,7 @@ namespace exercicios_estrutura_sequencial
             
             total = num_peca01 * valor01 + num_peca02 * valor02;
             
-            System.Console.WriteLine("VALOR A PAGAR = R$ " + total.ToString("F2", CultureInfo,InvariantCulture));
-            
+            System.Console.WriteLine("VALOR A PAGAR = R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
