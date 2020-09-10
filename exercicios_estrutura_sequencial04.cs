@@ -12,12 +12,12 @@ namespace exercicios_estrutura_sequencial
             
             funcionario = int.Parse(Console.ReadLine());
             hora_trabalhada = int.Parse(Console.ReadLine());
-            recebe_hora = double.Parse(Console.Readline(), CultureInfo.InvariantCulture);
+            recebe_hora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             
             salario = hora_trabalhada * recebe_hora;
             
             System.Console.WriteLine("NUMBER = " + funcionario);
-            System.Console.WriteLine("SALARY = U$ " + salario.ToString("F2".CultureInfo.InvariantCulture));          
+            System.Console.WriteLine("SALARY = U$ " + salario.ToString("F2", CultureInfo.InvariantCulture));          
         }
     }
 }
