@@ -19,10 +19,14 @@ namespace Projeto18
         {
             return Preco * Quantidade;
         }
-        public int RemoverProdutos()
+
+        public void AdicionarProdutos(int quantidade)
         {
-            
-            return 0;
+            Quantidade += quantidade;
+        }
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
         }
         public override string ToString()
         {

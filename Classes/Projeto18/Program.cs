@@ -16,7 +16,18 @@ namespace Projeto18
             System.Console.Write("Insira a quantidade: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Dados do Produto: " + p);
+            System.Console.WriteLine("\nDados do Produto: " + p);
+            System.Console.WriteLine();
+
+            System.Console.WriteLine("\nDigite o numero de produtos a ser adicionado: ");
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+            System.Console.WriteLine("\nDados Atualizados: " + p);
+
+            System.Console.WriteLine("\nDigite o numero de produtos a ser removido: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qte);
+            System.Console.WriteLine("\nDados Atualizados: " + p);
         }
     }
 }
