@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace exercício03
 {
@@ -6,7 +7,12 @@ namespace exercício03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Retangulo n = new Retangulo();
+            Console.WriteLine("Entre a Largura e a Altura do retângulo: ");
+            n.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            n.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            System.Console.WriteLine(n);
         }
     }
 }
