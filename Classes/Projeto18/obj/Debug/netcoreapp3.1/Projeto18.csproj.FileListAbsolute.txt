@@ -1,0 +1,13 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/bin/Debug/netcoreapp3.1/Projeto18
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/bin/Debug/netcoreapp3.1/Projeto18.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/bin/Debug/netcoreapp3.1/Projeto18.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/bin/Debug/netcoreapp3.1/Projeto18.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/bin/Debug/netcoreapp3.1/Projeto18.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/bin/Debug/netcoreapp3.1/Projeto18.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Classes/Projeto18/obj/Debug/netcoreapp3.1/Projeto18.genruntimeconfig.cache
