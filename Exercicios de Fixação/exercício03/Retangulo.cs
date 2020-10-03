@@ -6,7 +6,8 @@ namespace exercício03
     public class Retangulo
     {
         public double Largura;
-        public double Altura;
+        public double Altura;    
+        
         public double Area()
         {
             return Largura * Altura;
