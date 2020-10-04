@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercicio04/exercicio04.csproj": {}
+    "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/exercício04.csproj": {}
   },
   "projects": {
-    "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercicio04/exercicio04.csproj": {
+    "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/exercício04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercicio04/exercicio04.csproj",
-        "projectName": "exercicio04",
-        "projectPath": "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercicio04/exercicio04.csproj",
+        "projectUniqueName": "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/exercício04.csproj",
+        "projectName": "exercício04",
+        "projectPath": "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/exercício04.csproj",
         "packagesPath": "/home/marques/.nuget/packages/",
-        "outputPath": "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercicio04/obj/",
+        "outputPath": "/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marques/.nuget/NuGet/NuGet.Config"

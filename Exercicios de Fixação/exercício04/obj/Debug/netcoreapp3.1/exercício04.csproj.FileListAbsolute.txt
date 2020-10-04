@@ -1,0 +1,4 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.csproj.CoreCompileInputs.cache
