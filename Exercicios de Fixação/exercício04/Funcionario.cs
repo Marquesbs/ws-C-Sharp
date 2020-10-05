@@ -15,7 +15,7 @@ namespace exercício04
         }
         public void AumentarSalario(double porcentagem)
         {
-            SalarioBruto = SalarioBruto + (SalarioBruto / porcentagem * 100.0);
+            SalarioBruto = SalarioBruto + (SalarioBruto / porcentagem);
         }
         public override string ToString()
         {

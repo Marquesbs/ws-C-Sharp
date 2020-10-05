@@ -9,7 +9,7 @@ namespace exercício04
         {
             Funcionario func = new Funcionario();
 
-            System.Console.Write("Nome: ");
+            System.Console.Write("\nNome: ");
             func.Nome = Console.ReadLine();
             System.Console.Write("Salário Bruto: ");
             func.SalarioBruto = double.Parse(Console.ReadLine().ToString(CultureInfo.InvariantCulture));
@@ -18,7 +18,7 @@ namespace exercício04
 
             System.Console.WriteLine("Funcionário: " + func);
 
-            Console.Write("Digite a porcentagem para aumentar o salário: ");
+            Console.Write("\nDigite a porcentagem para aumentar o salário: ");
             double porcentagem = double.Parse(Console.ReadLine().ToString(CultureInfo.InvariantCulture));
             func.AumentarSalario(porcentagem);
 
