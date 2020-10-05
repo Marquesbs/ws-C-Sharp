@@ -11,15 +11,17 @@ namespace exercício04
         
         public double SalarioLiquido()
         {
-            return "Funcionário: " + Nome + "$" + (SalarioBruto - Imposto);
+            return SalarioBruto - Imposto;
         }
-        public void AumentarSalario(double Porcentagem)
+        public void AumentarSalario(double porcentagem)
         {
-            Console.Write("Digite a porcentagem para aumentar o salário: ");
-            Porcentagem = double.Parse(Console.ReadLine().ToString("F2", CultureInfo.InvariantCulture));
-            Porcentagem = (SalarioBruto / porcentagem) * 100;
-            return "Dados Atualizados: " + Nome + "$" + ((SalarioBruto + Porcentagem)-Imposto);
+            SalarioBruto = SalarioBruto + (SalarioBruto / porcentagem * 100.0);
         }
-
+        public override string ToString()
+        {
+            return Nome
+            + ", R$"
+            + SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

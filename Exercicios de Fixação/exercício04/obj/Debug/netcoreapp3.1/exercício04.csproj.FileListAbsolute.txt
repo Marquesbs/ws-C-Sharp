@@ -2,3 +2,12 @@
 /home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.AssemblyInfoInputs.cache
 /home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.AssemblyInfo.cs
 /home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/bin/Debug/netcoreapp3.1/exercício04
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/bin/Debug/netcoreapp3.1/exercício04.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/bin/Debug/netcoreapp3.1/exercício04.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/bin/Debug/netcoreapp3.1/exercício04.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/bin/Debug/netcoreapp3.1/exercício04.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/bin/Debug/netcoreapp3.1/exercício04.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício04/obj/Debug/netcoreapp3.1/exercício04.genruntimeconfig.cache

@@ -7,17 +7,22 @@ namespace exercício04
     {
         static void Main(string[] args)
         {
-            Funcionario n = new Funcionario();
+            Funcionario func = new Funcionario();
+
             System.Console.Write("Nome: ");
-            n.Nome = Console.ReadLine();
+            func.Nome = Console.ReadLine();
             System.Console.Write("Salário Bruto: ");
-            n.SalarioBruto = double.Parse(Console.ReadLine().ToString("F2", CultureInfo.InvariantCulture));
-            System.Console.WriteLine("Imposto: ");
-            n.Imposto = double.Parse(Console.ReadLine().ToString("F2", CultureInfo.InvariantCulture));
+            func.SalarioBruto = double.Parse(Console.ReadLine().ToString(CultureInfo.InvariantCulture));
+            System.Console.Write("Imposto: ");
+            func.Imposto = double.Parse(Console.ReadLine().ToString(CultureInfo.InvariantCulture));
 
-            SalarioLiquido();
+            System.Console.WriteLine("Funcionário: " + func);
 
-            AumentarSalario();
+            Console.Write("Digite a porcentagem para aumentar o salário: ");
+            double porcentagem = double.Parse(Console.ReadLine().ToString(CultureInfo.InvariantCulture));
+            func.AumentarSalario(porcentagem);
+
+            System.Console.WriteLine("\nDados Atualizados: " + func);
         }
     }
 }
