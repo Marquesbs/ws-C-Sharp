@@ -1,0 +1,13 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/bin/Debug/netcoreapp3.1/exercício05
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/bin/Debug/netcoreapp3.1/exercício05.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/bin/Debug/netcoreapp3.1/exercício05.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/bin/Debug/netcoreapp3.1/exercício05.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/bin/Debug/netcoreapp3.1/exercício05.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/bin/Debug/netcoreapp3.1/exercício05.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Exercicios de Fixação/exercício05/obj/Debug/netcoreapp3.1/exercício05.genruntimeconfig.cache
