@@ -1,0 +1,13 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/bin/Debug/netcoreapp3.1/Solução01
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/bin/Debug/netcoreapp3.1/Solução01.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/bin/Debug/netcoreapp3.1/Solução01.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/bin/Debug/netcoreapp3.1/Solução01.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/bin/Debug/netcoreapp3.1/Solução01.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/bin/Debug/netcoreapp3.1/Solução01.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Solução01/obj/Debug/netcoreapp3.1/Solução01.genruntimeconfig.cache
