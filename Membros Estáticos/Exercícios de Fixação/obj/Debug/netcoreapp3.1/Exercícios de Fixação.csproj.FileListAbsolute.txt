@@ -1,0 +1,13 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/bin/Debug/netcoreapp3.1/Exercícios de Fixação
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/bin/Debug/netcoreapp3.1/Exercícios de Fixação.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/bin/Debug/netcoreapp3.1/Exercícios de Fixação.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/bin/Debug/netcoreapp3.1/Exercícios de Fixação.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/bin/Debug/netcoreapp3.1/Exercícios de Fixação.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/bin/Debug/netcoreapp3.1/Exercícios de Fixação.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Membros Estáticos/Exercícios de Fixação/obj/Debug/netcoreapp3.1/Exercícios de Fixação.genruntimeconfig.cache
