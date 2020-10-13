@@ -22,8 +22,7 @@ namespace Construtor
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int qte = int.Parse(Console.ReadLine());
             p.AdicionarProdutos(qte);
-            //comentário pra teste
-        
+
             Console.WriteLine("\nDados atualizados: " + p);
             Console.Write("Digite o número de produtos a ser removido do estoque: ");
             qte = int.Parse(Console.ReadLine());
