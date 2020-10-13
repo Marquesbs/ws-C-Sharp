@@ -3,6 +3,7 @@ códigos do curso de C# criados no Visual Studio Code (Pop!_OS)
 
 Os códigos foram organizadamente colocados dentro de pastas representativas.
 A pasta "Primeiros Passos" foram os primeiros códigos utilizando a linguagem.
+
 A pasta "Estruturas" se refere aos exercícios sobre estrutura sequencial, repetitiva e condicional
 os exercicios de estrutura repetitiva foram separados em duas categorias utilizando "For" e "While"
 
