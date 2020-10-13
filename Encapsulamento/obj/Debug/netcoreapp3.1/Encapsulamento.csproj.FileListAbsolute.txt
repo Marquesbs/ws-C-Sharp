@@ -1,0 +1,13 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/bin/Debug/netcoreapp3.1/Encapsulamento
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/bin/Debug/netcoreapp3.1/Encapsulamento.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/bin/Debug/netcoreapp3.1/Encapsulamento.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/bin/Debug/netcoreapp3.1/Encapsulamento.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/bin/Debug/netcoreapp3.1/Encapsulamento.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/bin/Debug/netcoreapp3.1/Encapsulamento.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Encapsulamento/obj/Debug/netcoreapp3.1/Encapsulamento.genruntimeconfig.cache

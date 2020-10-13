@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Encapsulamento
 {
@@ -6,27 +7,13 @@ namespace Encapsulamento
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Entre os dados do produto:");
-            Console.Write("Nome: ");
-            string nome = Console.ReadLine();
-            Console.Write("Preço: ");
-            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            int quantidade = int.Parse(Console.ReadLine());
+            Produto p = new Produto("TV", 500.00, 10);
 
-            Produto p = new Produto(nome, preco);
-            
-            Console.WriteLine("\nDados do produto: " + p);
-            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-            int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qte);
-            
-            Console.WriteLine("\nDados atualizados: " + p);
-            Console.Write("Digite o número de produtos a ser removido do estoque: ");
-            qte = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(qte);
-            
-            Console.WriteLine("\nDados atualizados: " + p);
+            p.SetNome("TV 4K");
+
+            System.Console.WriteLine(p.GetNome());
+            System.Console.WriteLine(p.GetPreco().ToString("F2", CultureInfo.InvariantCulture));
+            System.Console.WriteLine(p.GetQuantidade());
         }
     }
 }
