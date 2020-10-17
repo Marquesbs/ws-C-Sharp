@@ -9,11 +9,11 @@ namespace Propriedades
         {
             Produto p = new Produto("TV", 500.00, 10);
 
-            p.SetNome("TV 4K");
+            p.Nome = "TV 4K";
 
-            System.Console.WriteLine(p.GetNome());
-            System.Console.WriteLine(p.GetPreco().ToString("F2", CultureInfo.InvariantCulture));
-            System.Console.WriteLine(p.GetQuantidade());
+            System.Console.WriteLine(p.Nome);
+            System.Console.WriteLine(p.Preco.ToString("F2", CultureInfo.InvariantCulture));
+            System.Console.WriteLine(p.Quantidade);
         }
     }
 }

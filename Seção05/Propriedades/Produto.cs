@@ -19,26 +19,33 @@ namespace Propriedades
             _quantidade = quantidade;
         }
 
-        //métodos Get / Set
-        public string GetNome() //método para que seja visualizado o nome do produto para o usuário
-        {
-            return _nome;
-        }
-
-        public void SetNome(string nome) //método para que seja atribuído na private _nome, o nome que for digitado de parâmetro de entrada.
-        {
-            if (nome != null && nome.Length > 1)
+        //propriedades substituem Get e Set
+        public string Nome {
+            get 
             {
-                _nome = nome;
+                return _nome; //substitui o GetNome() 
+            }
+            set //substitui o SetNome()
+            { 
+                if (value != null && value.Length > 1) //value substitui o parâmetro de entrada do método Set.
+                {
+                    _nome = Nome;
+                }
             }
         }
-        public double GetPreco()
+        public double Preco
         {
-            return _preco;
+            get 
+            {
+                return _preco;
+            }
         }
-        public double GetQuantidade()
+        public double Quantidade
         {
-            return _quantidade;
+            get
+            {
+                return _quantidade;
+            }
         }
 
         public double ValorTotalEmEstoque() 

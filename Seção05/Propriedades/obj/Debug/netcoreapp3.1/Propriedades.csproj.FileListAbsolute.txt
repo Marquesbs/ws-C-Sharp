@@ -1,0 +1,13 @@
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/bin/Debug/netcoreapp3.1/Propriedades
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/bin/Debug/netcoreapp3.1/Propriedades.deps.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/bin/Debug/netcoreapp3.1/Propriedades.runtimeconfig.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/bin/Debug/netcoreapp3.1/Propriedades.runtimeconfig.dev.json
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/bin/Debug/netcoreapp3.1/Propriedades.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/bin/Debug/netcoreapp3.1/Propriedades.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.csprojAssemblyReference.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.AssemblyInfoInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.AssemblyInfo.cs
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.csproj.CoreCompileInputs.cache
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.dll
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.pdb
+/home/marques/Documentos/Programação/ws-C-Sharp/Seção05/Propriedades/obj/Debug/netcoreapp3.1/Propriedades.genruntimeconfig.cache
