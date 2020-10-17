@@ -5,7 +5,9 @@ namespace AutoPropriedades
     public class Produto
     {
         private string _nome; //atributos privativos se começa com _ e letra minúscula.
-        public double Preco {get; private set;}
+
+        //Autoproperties podem ser feitas quando as propriedades não possuem regras especiais
+        public double Preco {get; private set;} //public ao invés de private
         public int Quantidade {get; private set;}
 
         public Produto() 
