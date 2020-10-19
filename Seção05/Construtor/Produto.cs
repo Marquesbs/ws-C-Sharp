@@ -6,7 +6,7 @@ namespace Construtor
         public string Nome;
         public double Preco;
         public int Quantidade;
-        public Produto(string nome, double preco, int quantidade) 
+        public Produto(string nome, double preco, int quantidade) //construtor deve possuir o mesmo nome da classe
         {
             Nome = nome;
             Preco = preco;
