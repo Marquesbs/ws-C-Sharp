@@ -9,7 +9,7 @@ namespace exercício06
         public string Nome { get; set;}
         public double Saldo { get; set;}
         public string Resposta { get; set;}
-        public double Saque { get; set;}
+        public double Saque { get; private set;}
 
         public Conta(int numero, string nome, string resposta, double saldo, double saque) //construtor deve possuir o mesmo nome da classe
         {
