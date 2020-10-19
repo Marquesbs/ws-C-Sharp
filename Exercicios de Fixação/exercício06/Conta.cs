@@ -5,7 +5,7 @@ namespace exercício06
 {
     public class Conta
     {
-        public int Numero { get; private set;}
+        public int Numero { get; private set;} //numero da conta não pode ser alterado.
         public string Nome { get; set;}
         public double Saldo { get; set;}
         public string Resposta { get; set;}
@@ -24,14 +24,14 @@ namespace exercício06
         {
             System.Console.Write("\nEntre com o valor do depósito: ");
             deposito = double.Parse(Console.ReadLine());
-            this.Saldo += deposito;
+            Saldo += deposito;
         }
 
         public void SaqueValor(double saque)
         {
             System.Console.WriteLine("\nEntre com o valor do saque: ");
             saque = double.Parse(Console.ReadLine());
-            this.Saldo = Saldo - saque - 5.00;
+            Saldo = Saldo - saque - 5.00;
         }
 
         public override string ToString()
